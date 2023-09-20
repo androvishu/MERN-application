@@ -13,7 +13,7 @@ Before you begin, make sure you have the following software and tools installed 
 - [MongoDB](https://www.mongodb.com/) (or any other database system supported by the project)
 
 ## Installation
-I. 
+-
     1. Clone the repository to your local machine:
     
        ```bash
@@ -25,7 +25,7 @@ I.
     3. Install project dependencies using npm:
        npm install
        
-II.  
+- 
     2. Navigate to the project's frontend directory:
         cd your-project/frontend
     
