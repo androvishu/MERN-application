@@ -13,24 +13,24 @@ Before you begin, make sure you have the following software and tools installed 
 - [MongoDB](https://www.mongodb.com/) (or any other database system supported by the project)
 
 ## Installation
--
-    1. Clone the repository to your local machine:
-    
-       ```bash
-       git clone https://github.com/androvishu/MERN-application.git
-    
-    2. Navigate to the project's backend directory:
-        cd your-project/backend
-    
-    3. Install project dependencies using npm:
-       npm install
-       
-- 
-    2. Navigate to the project's frontend directory:
-        cd your-project/frontend
-    
-    3. Install project dependencies using npm:
-       npm install
+    ## Backend Installation 
+        1. Clone the repository to your local machine:
+        
+           ```bash
+           git clone https://github.com/androvishu/MERN-application.git
+        
+        2. Navigate to the project's backend directory:
+            cd your-project/backend
+        
+        3. Install project dependencies using npm:
+           npm install
+           
+    ## Frontend Installation    
+        1. Navigate to the project's frontend directory:
+            cd your-project/frontend
+        
+        2. Install project dependencies using npm:
+           npm install
 
    
 
