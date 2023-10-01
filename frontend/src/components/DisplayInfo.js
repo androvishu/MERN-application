@@ -44,7 +44,7 @@ function DisplayInfo({ baseUrl }) {
                                         <tr>
                                             <td>{data.firstName}</td>
                                             <td>{data.lastName}</td>
-                                            <td>{data.email}</td>
+                                            <td>{data.gmail}</td>
                                             <td>{data.country}</td>
                                             <td>{data.state}</td>
                                             <td>{data.city}</td>
